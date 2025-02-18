@@ -11,9 +11,9 @@ This is a simple **Analog Clock** project built using **HTML, CSS, and JavaScrip
 - 💡 **Smooth transitions for clock hands**
 - 🔧 **Lightweight and easy to integrate into any website**
 
-## 📸 Screenshot
+## 🎥 Demo
 
-![Analog Clock Preview](screenshot.png)
+<video src="Analog-clock-working.mp4" controls width="600"></video>
 
 ## 🛠️ Technologies Used
 
