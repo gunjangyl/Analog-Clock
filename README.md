@@ -15,6 +15,11 @@ This is a simple **Analog Clock** project built using **HTML, CSS, and JavaScrip
 
 <video src="Analog-clock-working.mp4" controls width="600"></video>
 
+## 🎥 Demo
+
+https://github.com/gunjangyl/Analog-clock-working/assets/demo.mp4
+
+
 ## 🛠️ Technologies Used
 
 - **HTML** – Structure of the clock
